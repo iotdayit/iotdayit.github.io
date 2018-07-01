@@ -15,6 +15,12 @@ social:
 
 location: Università degli Studi di Napoli Federico II - Scuola Politecnica e delle Scienze di Base - Complesso Napoli Est
 
+# Status of the conference organization (speakers and session available, c4p started, ...)
+conference:
+  speakers: false
+  sessions: false
+  registration: false
+
 # Build settings
 markdown: kramdown
 permalink: pretty

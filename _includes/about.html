@@ -53,9 +53,13 @@
                                     <h4 class="subheading"></h4>
                                 </div>
                                 <div class="timeline-heading">
-                                    <p class="text-muted">Register for our conference! It's free!</p>
+                                    <p class="text-muted">Register for the conference! It's free!</p>
                                 </div>
-                                <a href="#" class="page-scroll btn btn-xl">Learn More</a>
+                                {% if site.conference.registration == true %}
+                                <a href="#" class="page-scroll btn btn-xl">Register</a>
+                                {% else %}
+                                <a href="#" class="page-scroll btn btn-xl">Open Soon</a>
+                                {% endif %}
                             </div>
                         </li>
                         <li class="timeline-inverted">

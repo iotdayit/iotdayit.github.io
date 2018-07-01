@@ -7,9 +7,9 @@
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: linkedin
       url: #
-    - title: stack-overflow
+    - title: github
       url: #
 
 - id: 2
@@ -22,7 +22,7 @@
       url: #
     - title: facebook
       url: #
-    - title: linkedin
+    - title: github
       url: #
 
 - id: 3
@@ -33,7 +33,7 @@
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: linkedin
       url: #
-    - title: google-plus
+    - title: github
       url: #
