@@ -1,0 +1,29 @@
+<div class="sessions-modal modal fade" id="venueModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Venue</h2>
+                        <hr class="star-primary">
+                        <p class="text-muted">The IoT Day Italy will be hosted at Università degli Studi di Napoli Federico II</p>
+                        {% if site.location %} 
+                        <img src="http://maps.googleapis.com/maps/api/staticmap?{{ site.location }}center={{ site.location }}&markers=color:blue%7C{{ site.location }}&markers=color:blue%7C{{ site.location }}&size=300x200&scale=2&sensor=false&visual_refresh=true" alt="">
+                        {% endif %}
+                        <h4>Università degli Studi di Napoli Federico II - Scuola Politecnica e delle Scienze di Base - Complesso Napoli Est.</h4>
+                        <p class="text-muted">  
+                            <strong>Corso Nicolangelo Protopisani, 70, 80146 Napoli NA</strong>
+                        </p>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

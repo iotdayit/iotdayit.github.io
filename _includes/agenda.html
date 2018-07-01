@@ -1,6 +1,4 @@
- <!-- Speaker Modals -->
- {% for speaker in site.data.speakers %}
-    <div class="sessions-modal modal fade" id="speakerModal{{ speaker.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="sessions-modal modal fade" id="agendaModal" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -12,12 +10,11 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ speaker.name }}</h2>
+                            <h2>Agenda</h2>
                             <hr class="star-primary">
-                            <!--<img src="img/speakers/{{ speaker.pic }}" class="img-responsive img-centered" alt="{{ speaker.name }}">-->
-                            <img src="img/speakers/speaker.png" class="img-responsive img-centered img-circle" alt="{{ speaker.name }}">
-                            <h4>{{ speaker.position }}</h4>
-                            <p class="text-muted">{{ speaker.bio }}</p>
+                            <p class="text-muted">
+                                The agenda will be available as soon as the commitee will chose the proposals at the end of the call for papers.
+                            </p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -25,4 +22,3 @@
             </div>
         </div>
     </div>
-{% endfor %}
