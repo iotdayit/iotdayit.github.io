@@ -1,0 +1,48 @@
+- title: Dreams
+  subtitle: Website Design
+  id: 1
+  time: "9:00"
+  img: dreams.png
+  thumbnail: dreams-thumbnail.png
+  alt: image-alt
+  description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+- title: Escape
+  subtitle: Website Design
+  id: 2
+  time: "9:00"
+  img: escape.png
+  thumbnail: escape-thumbnail.png
+  alt: image-alt
+  description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+- title: Golden
+  subtitle: Website Design
+  id: 3
+  time: "9:00"
+  img: golden.png
+  thumbnail: golden-thumbnail.png
+  alt: image-alt
+  description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse. 
+- title: Treehouse
+  subtitle: Website Design
+  id: 4
+  time: "9:00"
+  img: treehouse.png
+  thumbnail: treehouse-thumbnail.png
+  alt: image-alt
+  description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+- title: Startup Framework
+  subtitle: Website Design
+  id: 5
+  time: "9:00"
+  img: startup-framework.png
+  thumbnail: startup-framework-thumbnail.png
+  alt: image-alt
+  description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+- title: Round Icons
+  subtitle: Graphic Design
+  id: 6
+  time: "9:00"
+  img: roundicons.png
+  thumbnail: roundicons-thumbnail.png
+  alt: image-alt
+  description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.

@@ -1,0 +1,39 @@
+# Speakers names, titles and social links
+- id: 1
+  name: name1
+  pic: speaker
+  position: position1
+  bio: bio1
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- id: 2
+  name: name2
+  pic: speaker
+  position: position2
+  bio: bio2
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- id: 3
+  name: name3
+  pic: speaker
+  position: position3
+  bio: bio3
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
