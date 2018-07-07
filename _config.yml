@@ -13,8 +13,6 @@ social:
   - title: facebook
     url: https://www.facebook.com/iotdayit/
 
-location: Università degli Studi di Napoli Federico II - Scuola Politecnica e delle Scienze di Base - Complesso Napoli Est
-
 # Status of the conference organization (speakers and session available, c4p started, ...)
 conference:
   speakers: false
