@@ -1,6 +1,6 @@
 # IoT Day Italy
 
-IoT Day Italy web site
+This is the source code repository for the **IoT Day Italy** conference official website: [http://www.iotdayit.org](http://www.iotdayit.org)
 
 ## Prerequisites
 
