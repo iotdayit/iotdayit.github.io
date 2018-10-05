@@ -48,7 +48,9 @@
                 <div class="intro-heading">IoT Day Italy</div>
                 <div class="intro-lead-in">December 10th, 2018</div>
                 <a href="#intro" class="page-scroll btn btn-xl">Tell Me More</a>
-                <a href="https://sessionize.com/iotdayit/" class="btn btn-xl">Become a speaker</a>
+                {% if site.conference.callforpaper == true %}
+                    <a href="https://sessionize.com/iotdayit/" class="btn btn-xl">Become a speaker</a>
+                {% endif %}
             </div>
         </div>
     </header>
