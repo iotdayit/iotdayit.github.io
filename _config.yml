@@ -18,7 +18,7 @@ conference:
   speakers: false
   sessions: false
   registration: false
-  callforpaper: true
+  callforpaper: false
 
 # Build settings
 markdown: kramdown
