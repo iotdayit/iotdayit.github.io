@@ -12,12 +12,32 @@
                         <div class="modal-body">
                             <h2>Agenda</h2>
                             <hr class="star-primary">
+                            {% if site.conference.sessions == false %}
                             <p class="text-muted">
                                 The committee is working on the proposals. The agenda will be published soon!
                             </p>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            {% endif %}
                         </div>
                     </div>
+                </div>
+                {% if site.conference.sessions == true %}
+                <div class="row">
+                    {% for session in site.data.sessions %}
+                    {% assign speaker-id = session.speaker-id | minus:1 %}
+                    {% assign speaker = site.data.speakers[speaker-id] %}
+                    <div class="col-lg-12 text-center">
+                        Time: <strong>{{ session.time }}</strong>
+                        <div class="sessions-caption">
+                            <h4>{{ session.title }}</h4>
+                            <p class="text-muted">{{ speaker.name }} - {{ speaker.position }}</p>
+                            <p class="text-justify">{{ session.description }}</p>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+                {% endif %}
+                <div class="row">
+                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                 </div>
             </div>
         </div>

@@ -1,4 +1,4 @@
-<!-- Sessopms Grid Section -->
+<!-- Sessions Section -->
     <section id="sessions" class="bg-light-gray">
         <div class="container">
             <div class="row">
@@ -17,17 +17,18 @@
             </div>
             {% if site.conference.sessions == true %}
             <div class="row">
-            {% for session in site.data.sessions %}
-                <div class="col-md-4 col-sm-6 sessions-item">
-                    <a href="#sessionModal{{ session.id }}" class="sessions-link" data-toggle="modal">
-                        <img src="img/sessions/{{ session.thumbnail }}" class="img-responsive img-centered" alt="">
-                    </a>
+                {% for session in site.data.sessions %}
+                {% assign speaker-id = session.speaker-id | minus:1 %}
+                {% assign speaker = site.data.speakers[speaker-id] %}
+                <div class="col-lg-12 text-center">
                     <div class="sessions-caption">
-                        <h4>{{ session.title }}</h4>
-                        <p class="text-muted">{{ session.subtitle }}</p>
+                        <a href="#sessionModal{{ session.id }}" class="sessions-link" data-toggle="modal">
+                            <h4>{{ session.title }}</h4>
+                        </a>
+                        <p class="text-muted">{{ speaker.name }} - {{ speaker.position }}</p>
                     </div>
                 </div>
-            {% endfor %}
+                {% endfor %}
             </div>
             {% elsif site.conference.callforpaper == true %}
             <div class="row">
