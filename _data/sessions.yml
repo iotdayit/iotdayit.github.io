@@ -46,8 +46,13 @@
     All the devices we use every day will be connected to the Internet in the next decade, from the everyday appliances, from the transport vehicles (car, bus, Metro, etc.) to the various industrial devices.
     Microsoft Azure Sphere is a solution for creating highly secure and connected MCU-connection devices.
     In This session are discussed the salient points and technologies that are the basis of this new solution.
-- title: Digital Twins in the connected industry
+- title: "[LUNCH BREAK]"
   id: 6
+  time: "13:00 - 14:00"
+  description: |
+    Lunch offered by Intecs.
+- title: Digital Twins in the connected industry
+  id: 7
   speaker-id: 5
   time: "14:00 - 14:50"
   description: |
@@ -55,7 +60,7 @@
     But managing them with a new paradigm helps the digital transformation to be extended to the complete supply chain.
     The Digital Twins are the real jump forward in the connected industry.
 - title: IoT Edge Deployments with OpenShift and RHEL
-  id: 7
+  id: 8
   speaker-id: 7
   time: "15:00 - 15:50"
   description: |
@@ -63,7 +68,7 @@
     We’ll see in a real use case scenario how developers may leverage OpenShift features for enabling Hybrid deployments on standalone Red Hat Enterprise Linux. 
     In the demonstration, we’ll also use OpenShift’s Ansible Service Broker for automating the external deployment, looking forward to use Ansible Tower when large scale ones will be needed.
 - title: IoT and Cloud for the Digital Signage
-  id: 8
+  id: 9
   speaker-id: 8
   time: "16:00 - 16:50"
   description: |
