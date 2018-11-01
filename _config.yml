@@ -17,7 +17,7 @@ social:
 conference:
   speakers: true
   sessions: true
-  registration: false
+  registration: true
   callforpaper: false
 
 # Build settings
