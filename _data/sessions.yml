@@ -1,17 +1,22 @@
-- title: Welcome!
+- title: "[REGISTRATION]"
   id: 1
+  time: "8:30 - 9:30"
+  description: |
+    Attendees registration.
+- title: Welcome!
+  id: 2
   speaker-id: 1
   time: "9:30 - 9:50"
   description: |
     Welcome!
 - title: "Keynote - Industry 4.0: let's make the point"
-  id: 2
+  id: 3
   speaker-id: 3
   time: "9:50 - 10:10"
   description: |
     Let's see what aspects are actually currently representing a competitive advantage for the organizations and what are the main improvements obtained with a view to Enterprise Agility.
 - title: "Keynote - The IoT evolution: containers from the edge to the Cloud"
-  id: 3
+  id: 4
   speaker-id: 2
   time: "10:10 - 10:30"
   description: |
@@ -22,7 +27,7 @@
     Thanks to containers orchestrator like Kubernetes and OpenShift, it is possible to develop high performant, scalable, fault tolerant and resilient IoT solution.
     During this day we will see a lot of technologies and examples already involved in the new IoT evolution!
 - title: Loading a container on a small device is a good idea or a crazy one?
-  id: 4
+  id: 5
   speaker-id: 4
   time: "10:40 - 11:30"
   description: |
@@ -32,14 +37,14 @@
     Things can be adapted and adapting containers to run on devices may make sense in many scenarios.
     It also has some drawbacks and understanding when those exceed advantages is important to find the best solution for a specific problem.
 - title: IoT applications and use cases in real life from Intecs perspective
-  id: 5
+  id: 6
   speaker-id: 9
   time: "11:40 - 12:00"
   description: |
     What is and where does the Internet of Things apply? From the Smart City  to Healthcare, from Production to Public Administration, nowadays many sectors and areas are affected by the technological innovation of the Internet of Things with different levels of maturity.
     Intecs delved into IoT in 2013 delivering end-to-end IoT solutions for Precision Agriculture as well for Smart City domains based on Big Data and Security issues.
 - title: Introducing Microsoft Azure Sphere
-  id: 5
+  id: 7
   speaker-id: 6
   time: "12:10 - 13:00"
   description: |
@@ -47,12 +52,12 @@
     Microsoft Azure Sphere is a solution for creating highly secure and connected MCU-connection devices.
     In This session are discussed the salient points and technologies that are the basis of this new solution.
 - title: "[LUNCH BREAK]"
-  id: 6
+  id: 8
   time: "13:00 - 14:00"
   description: |
     Lunch offered by Intecs.
 - title: Digital Twins in the connected industry
-  id: 7
+  id: 9
   speaker-id: 5
   time: "14:00 - 14:50"
   description: |
@@ -60,7 +65,7 @@
     But managing them with a new paradigm helps the digital transformation to be extended to the complete supply chain.
     The Digital Twins are the real jump forward in the connected industry.
 - title: IoT Edge Deployments with OpenShift and RHEL
-  id: 8
+  id: 10
   speaker-id: 7
   time: "15:00 - 15:50"
   description: |
@@ -68,10 +73,15 @@
     We’ll see in a real use case scenario how developers may leverage OpenShift features for enabling Hybrid deployments on standalone Red Hat Enterprise Linux. 
     In the demonstration, we’ll also use OpenShift’s Ansible Service Broker for automating the external deployment, looking forward to use Ansible Tower when large scale ones will be needed.
 - title: IoT and Cloud for the Digital Signage
-  id: 9
+  id: 11
   speaker-id: 8
   time: "16:00 - 16:50"
   description: |
     Digital Signage application are usually under considered applications.
     But with a small effort today we can build a complete platform for distributed digital signage that can manage different content on different places and devices, updating it in real time and supporting special functions like people counting, AD analysis, appreciation index etc.
     Let's see how we have designed and built such a type of system.
+- title: "[THANKS!]"
+  id: 12
+  time: "16:50 - 17:00"
+  description: |
+    Thanks and closing session.
