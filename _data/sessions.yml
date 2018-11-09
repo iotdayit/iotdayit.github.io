@@ -5,19 +5,22 @@
     Attendees registration.
 - title: Welcome!
   id: 2
-  speaker-id: 1
+  speakers: 
+    - id: 1
   time: "9:30 - 9:50"
   description: |
     Welcome!
 - title: "Keynote - Industry 4.0: let's make the point"
   id: 3
-  speaker-id: 3
+  speakers:
+    - id: 3
   time: "9:50 - 10:10"
   description: |
     Let's see what aspects are actually currently representing a competitive advantage for the organizations and what are the main improvements obtained with a view to Enterprise Agility.
 - title: "Keynote - The IoT evolution: containers from the edge to the Cloud"
   id: 4
-  speaker-id: 2
+  speakers:
+    - id: 2
   time: "10:10 - 10:30"
   description: |
     The IoT isn't a buzzword anymore. It is already here and it has been evolving since long time.
@@ -28,7 +31,8 @@
     During this day we will see a lot of technologies and examples already involved in the new IoT evolution!
 - title: Loading a container on a small device is a good idea or a crazy one?
   id: 5
-  speaker-id: 4
+  speakers:
+    - id: 4
   time: "10:40 - 11:30"
   description: |
     Software containers are getting more and more popular as a way to package and deploy software solutions, mostly for the cloud.
@@ -38,14 +42,16 @@
     It also has some drawbacks and understanding when those exceed advantages is important to find the best solution for a specific problem.
 - title: IoT applications and use cases in real life from Intecs perspective
   id: 6
-  speaker-id: 9
+  speakers:
+    - id: 9
   time: "11:40 - 12:00"
   description: |
     What is and where does the Internet of Things apply? From the Smart City  to Healthcare, from Production to Public Administration, nowadays many sectors and areas are affected by the technological innovation of the Internet of Things with different levels of maturity.
     Intecs delved into IoT in 2013 delivering end-to-end IoT solutions for Precision Agriculture as well for Smart City domains based on Big Data and Security issues.
 - title: Introducing Microsoft Azure Sphere
   id: 7
-  speaker-id: 6
+  speakers:
+    - id: 6
   time: "12:10 - 13:00"
   description: |
     All the devices we use every day will be connected to the Internet in the next decade, from the everyday appliances, from the transport vehicles (car, bus, Metro, etc.) to the various industrial devices.
@@ -58,7 +64,8 @@
     Lunch offered by Intecs.
 - title: Digital Twins in the connected industry
   id: 9
-  speaker-id: 5
+  speakers:
+    - id: 5
   time: "14:00 - 14:50"
   description: |
     The new approach for emerging businesses is related to the way we consider our data, the big mass of data, to be stored in clusters and clouds. 
@@ -66,7 +73,9 @@
     The Digital Twins are the real jump forward in the connected industry.
 - title: IoT Edge Deployments with OpenShift and RHEL
   id: 10
-  speaker-id: 7
+  speakers:
+    - id: 7
+    - id: 10
   time: "15:00 - 15:50"
   description: |
     Containers could be the perfect medium for IoT Edge Deployments: in this scenario OpenShift is the right platform for helping developers to build Edge Applications. 
@@ -74,7 +83,8 @@
     In the demonstration, we’ll also use OpenShift’s Ansible Service Broker for automating the external deployment, looking forward to use Ansible Tower when large scale ones will be needed.
 - title: IoT and Cloud for the Digital Signage
   id: 11
-  speaker-id: 8
+  speakers:
+    - id: 8
   time: "16:00 - 16:50"
   description: |
     Digital Signage application are usually under considered applications.

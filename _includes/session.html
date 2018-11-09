@@ -17,14 +17,14 @@
                             <hr class="star-primary">
                             <p class="text-justify">{{ session.description }}</p>
                             <ul class="list-inline item-details">
-                                {% if session.speaker-id %}
-                                {% assign speaker-id = session.speaker-id | minus:1 %}
-                                {% assign speaker = site.data.speakers[speaker-id] %}
-                                <li>Speaker:
-                                    <strong><a href="#speakerModal{{ speaker.id }}" class="sessions-link" data-toggle="modal">{{ speaker.name }} - {{ speaker.position }}</a>
-                                    </strong>
-                                </li>
-                                {% endif %}
+                                {% for speaker in session.speakers %}
+                                    {% assign speaker-id = speaker.id | minus:1 %}
+                                    {% assign speakerinfo = site.data.speakers[speaker-id] %}
+                                    <li>Speaker:
+                                        <strong><a href="#speakerModal{{ speaker.id }}" class="sessions-link" data-toggle="modal">{{ speakerinfo.name }} - {{ speakerinfo.position }}</a>
+                                        </strong>
+                                    </li>
+                                {% endfor %}
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
