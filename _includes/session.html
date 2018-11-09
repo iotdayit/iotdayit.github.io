@@ -21,7 +21,7 @@
                                 {% assign speaker-id = session.speaker-id | minus:1 %}
                                 {% assign speaker = site.data.speakers[speaker-id] %}
                                 <li>Speaker:
-                                    <strong><a href="#speakerModal{{ session.id }}" class="sessions-link" data-toggle="modal">{{ speaker.name }} - {{ speaker.position }}</a>
+                                    <strong><a href="#speakerModal{{ speaker.id }}" class="sessions-link" data-toggle="modal">{{ speaker.name }} - {{ speaker.position }}</a>
                                     </strong>
                                 </li>
                                 {% endif %}
