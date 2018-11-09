@@ -162,3 +162,19 @@
       url: https://www.linkedin.com/in/novella-buonaccorsi-4887921b/
     - title: github
       url: #
+
+- id: 10
+  name: Luca Bigotta
+  pic: lucabigotta
+  position: Solution Architect, Red Hat
+  bio: |
+    Luca Bigotta is a Red Hat Solution Architect and Red Hat IoT Ambassador.
+    He's a Middleware expert, he has a lot of experience on defining complex integration application architecture as well as Business Process Automation, API Management, Complex Event Processing, Big Data and Analytics.
+    He play the role of main architect on several Iot projects and he collaborate to structure the Red Hat Iot & Industry 4.0 Blueprint.
+  social:
+    - title: twitter
+      url: https://twitter.com/LucaBigotta
+    - title: linkedin
+      url: https://www.linkedin.com/in/luca-bigotta/
+    - title: github
+      url: #
