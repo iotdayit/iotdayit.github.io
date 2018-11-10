@@ -23,11 +23,11 @@
                         <a href="#sessionModal{{ session.id }}" class="sessions-link" data-toggle="modal">
                             <h4>{{ session.title }}</h4>
                         </a>
-                        {% if session.speaker-id %}
-                        {% assign speaker-id = session.speaker-id | minus:1 %}
-                        {% assign speaker = site.data.speakers[speaker-id] %}
-                        <p class="text-muted">{{ speaker.name }} - {{ speaker.position }}</p>
-                        {% endif %}
+                        {% for speaker in session.speakers %}
+                            {% assign speaker-id = speaker.id | minus:1 %}
+                            {% assign speakerinfo = site.data.speakers[speaker-id] %}
+                            <p class="text-muted">{{ speakerinfo.name }} - {{ speakerinfo.position }}</p>
+                        {% endfor %}
                     </div>
                     <hr class="star-primary">
                 </div>
