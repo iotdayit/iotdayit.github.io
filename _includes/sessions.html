@@ -21,7 +21,7 @@
                 <div class="col-lg-12 text-center">
                     <div class="sessions-caption">
                         <a href="#sessionModal{{ session.id }}" class="sessions-link" data-toggle="modal">
-                            <h4>{{ session.title }}</h4>
+                            <h4>[{{ session.time }}] - {{ session.title }}</h4>
                         </a>
                         {% for speaker in session.speakers %}
                             {% assign speaker-id = speaker.id | minus:1 %}

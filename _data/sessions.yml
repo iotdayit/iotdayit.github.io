@@ -1,4 +1,4 @@
-- title: "[REGISTRATION]"
+- title: "DOORS OPEN"
   id: 1
   time: "8:30 - 9:30"
   description: |
@@ -57,7 +57,7 @@
     All the devices we use every day will be connected to the Internet in the next decade, from the everyday appliances, from the transport vehicles (car, bus, Metro, etc.) to the various industrial devices.
     Microsoft Azure Sphere is a solution for creating highly secure and connected MCU-connection devices.
     In This session are discussed the salient points and technologies that are the basis of this new solution.
-- title: "[LUNCH BREAK]"
+- title: "LUNCH BREAK"
   id: 8
   time: "13:00 - 14:00"
   description: |
@@ -90,7 +90,7 @@
     Digital Signage application are usually under considered applications.
     But with a small effort today we can build a complete platform for distributed digital signage that can manage different content on different places and devices, updating it in real time and supporting special functions like people counting, AD analysis, appreciation index etc.
     Let's see how we have designed and built such a type of system.
-- title: "[THANKS!]"
+- title: "GREETINGS!"
   id: 12
   time: "16:50 - 17:00"
   description: |
