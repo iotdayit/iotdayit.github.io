@@ -28,6 +28,9 @@
                             {% assign speakerinfo = site.data.speakers[speaker-id] %}
                             <p class="text-muted">{{ speakerinfo.name }} - {{ speakerinfo.position }}</p>
                         {% endfor %}
+                        {% if session.slides %}
+                            <a href="../slides/{{ session.slides }}"><h5>slides</h5></a>
+                        {% endif %}
                     </div>
                     <hr class="star-primary">
                 </div>
