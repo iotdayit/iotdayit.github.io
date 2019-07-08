@@ -15,6 +15,7 @@ social:
 
 # Status of the conference organization (speakers and session available, c4p started, ...)
 conference:
+  coming: true
   speakers: true
   sessions: true
   registration: false
