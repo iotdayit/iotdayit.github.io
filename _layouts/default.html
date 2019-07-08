@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
-
-    <body id="page-top" class="index">
-
+  <body id="page-top" class="index">
+  {% if site.conference.coming == false %}
     {% include header.html %}
     {% include intro.html %}
     {% include speakers.html %}
@@ -19,6 +16,8 @@
     {% include venue.html %}
     {% include agenda.html %}
     {% include js.html %}
-
-    </body>
+  {% else %}
+    {% include coming.html %}  
+  {% endif %}
+  </body>
 </html>
