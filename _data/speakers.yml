@@ -1,180 +1,42 @@
 # Speakers names, titles and social links
 - id: 1
-  name: Antonio Pescapè
-  pic: antoniopescape
-  position: Full professor, University of Napoli Federico II
+  name: TBD
+  pic: speaker
+  position: tbd
   bio: |
-    Antonio Pescapè è Professore Ordinario di Sistemi di Elaborazione delle Informazioni presso il Dipartimento di Ingegneria Elettrica e delle Tecnologie dell'Informazione (DIETI) dell’Università di Napoli Federico II.
-    L’attività didattica è principalmente legata agli insegnamenti di Calcolatori Elettronici, Reti di Calcolatori ed Analisi e Prestazioni di Internet.
-    La sua attività di ricerca si focalizza sullo studio di Internet, sulla sue prestazioni e sulla sua sicurezza e gestione.
-    E’ membro del Consiglio Direttivo del CSI, Centro per i Servizi Informatici di Ateneo, del Comitato Spin Off di Ateneo, delegato del Rettore per la rete GARR, membro del Comitato Tecnico Scientifico di CESMA e di RIMIC, membro del Collegio dei Docenti del Dottorato ITEE, vicedirettore del Centro Interdipartimentale ERMES.
+    tbd
   social:
     - title: twitter
-      url: https://twitter.com/antoniopescape
+      url: #
     - title: linkedin
-      url: https://www.linkedin.com/in/antoniopescape/
+      url: #
     - title: github
       url: #
 
 - id: 2
-  name: Paolo Patierno
-  pic: paolopatierno
-  position: Principal Software Engineer, Red Hat
+  name: TBD
+  pic: speaker
+  position: tbd
   bio: |
-    Paolo is a Principal Software Engineer working for Red Hat on the messaging and IoT team.
-    He has been working on different integration projects having AMQP with Apache Kafka and Spark and on the EnMasse messaging-as-a-service project about the integration with MQTT.
-    Currently, he is focusing on Apache Kafka and how to deploy and run it on Kubernetes and OpenShift.
-    In the IoT space he takes part to the definition of the API for the Eclipse Hono project being one of the leads for it and he is also committer for Eclipse Paho and maintainer for different IoT related components in Eclipse Vert.x.
-    Finally, he is also Microsoft MVP in Azure and IoT since 2014.
+    tbd
   social:
     - title: twitter
-      url: https://twitter.com/ppatierno
+      url: #
     - title: linkedin
-      url: https://www.linkedin.com/in/paolopatierno/
+      url: #
     - title: github
-      url: https://github.com/ppatierno
+      url: #
 
 - id: 3
-  name: Felice Pescatore
-  pic: felicepescatore
-  position: Agile Business Coach, Xebir - AC2 Community President
+  name: TBD
+  pic: speaker
+  position: tbd
   bio: |
-    Research Manager and Microsoft MVP I work daily with complex projects using Agile/Lean/DevOps approaches to achieve business goals.
-    Software Engineer with a Master Degree in Software Technology and Software Management, my primary focus is on Enterprise Lean Coaching, helping international company, specially in energy/banking and automotive fields, to transform themselves in a more dynamic and Value driven companies.
-    Specifically, I work intensively with Disciplined Agile 2.x and SAFe to give to the customers an initial holistic vision of their company, and using it like a “start point” for the transformation.
-    Also, I use Lean Startup to support new business idea creation. Meanwhile I create and own the open project AgileIoT.org, a new disciplined approach aimed to support companies to create massive market IoT solutions in a manner where different people with different skills work together day-by-day to create a consumable solution.
-    I’m a speaker, and co-organizer, at most of the Italian Agile and Microsoft conferences and at some of Europeans one (you can find a list of them on my MS MVP profile: https://mvp.microsoft.com/en-us/PublicProfile/5001016).
-  social:
-    - title: twitter
-      url: https://twitter.com/felicepescatore
-    - title: linkedin
-      url: https://www.linkedin.com/in/felice-pescatore-50a41a22/
-    - title: github
-      url: #
-
-- id: 4
-  name: Valter Minute
-  pic: valterminute
-  position: Senior Software Developer, Toradex AG
-  bio: |
-    Valter works at Toradex AG in Horw, Switzerland, developing BSPs and drivers.
-    He has been developing embedded software since 1999 and he has been connecting devices to the internet (including a washing machine) years before someone invented "IoT" and launched it as the marketing buzzword of the century.
-    He likes to work and play with lots of different technologies, including open source ones and to integrate hardware and software in devices that interact with the real world.
-    He is a maker and tries to be a professional at the same time, playing with Arduino and Raspberry Pi and building industrial devices.
-    He wrote a book about the Raspberry Pi to help people discovering the wonders of software running on things.
-  social:
-    - title: twitter
-      url: https://twitter.com/VMinute
-    - title: linkedin
-      url: https://www.linkedin.com/in/valter-minute-b401502/
-    - title: github
-      url: #
-
-- id: 5
-  name: Vito De Gaetano
-  pic: vitodegaetano
-  position: Industrial IoT Architect and Solution Manager, Bosch
-  bio: |
-    Vito De Gaetano is an Industrial IoT Architect and Solution Manager in Bosch, working since 20 years on SAP projects and since almost 5 years as well in Industry4.0 solutions, fully supporting the Social Coding inside the company.
-    For many years he has deepened his experience in the management of business processes through SAP before extending the knowledge acquired to the world of IoT. Numerous initiatives and projects have emerged that are now of global interest for the Digital Transformation players in the company.
-    His passion for new technologies led him to participate in various events as a speaker to promote their knowledge, not only internally in the company.
-  social:
-    - title: twitter
-      url: https://twitter.com/VitoDeGaetano
-    - title: facebook
-      url: https://www.linkedin.com/in/vitodegaetano/
-    - title: github
-      url: #
-
-- id: 6
-  name: Mirco Vanini
-  pic: mircovanini
-  position: Senior Developer & Consultant
-  bio: |
-    Mirco Vanini began his passion for computer science at the age of fourteen with the mythical ZX81.
-    After completing his studies he began his business in the field of industrial automation and then landed in the embedded world.
-    During the years 90 develops applications using C++ and the various technologies present on the market.
-    From 2000, he started developing with Microsoft .net for both the desktop environment and the mobile/embedded environment.
-    Always focused on embedded systems and their integration into the real world using for development both managed code and native code to always get the maximum performance from various devices.
-    Partner and active member in the user group "xedotnet " in which it participates both in the organizational side and as a speaker.
-    Passionate and curious about everything that revolves around the IoT world both for hobbies and for work.
-  social:
-    - title: twitter
-      url: https://twitter.com/mircovanini
-    - title: linkedin
-      url: https://www.linkedin.com/in/proxsoft/
-    - title: github
-      url: #
-
-- id: 7
-  name: Alessandro Arrichiello
-  pic: alessandroarrichiello
-  position: Solution Architect, Red Hat
-  bio: |
-    Alessandro Arrichiello is a Solution Architect for Red Hat Inc.
-    He has a passion for GNU/Linux systems, which began at age 14 and continues today.  
-    He works with tools for automating enterprise IT: configuration management and continuous integration through virtual platforms.
-    He’s now working on a distributed cloud environment involving PaaS (OpenShift), IaaS (OpenStack) and processes management (CloudForms), container building, instance creation, HA services management, and workflow builds.
-  social:
-    - title: twitter
-      url: https://www.twitter.com/alezzandro1986
-    - title: linkedin
-      url: https://it.linkedin.com/in/alessandroarrichiello
-    - title: github
-      url: #
-
-- id: 8
-  name: Marco Dal Pino
-  pic: marcodalpino
-  position: Microsoft MVP, Speaker, Windows Dev, Senior PM
-  bio: |
-    Marco Dal Pino has been working in the IT for more than 20 years as a Freelance Consultant working on .NET platform. 
-    He develops Mobile and Embedded Application for retail and enterprise Sector. He is also involved in developing Windows Phone and Windows 10 application for 3rd party company. 
-    He is a Trainer and a Speaker in the main technical conference.
-    He is part of the staff of DotNetToscana a community focused on Microsoft technologies.
-    Since 2013 he has been a Nokia Developer Champion for Windows Phone.
-    In 2013 Microsoft recognize him the title of Microsoft MVP Windows Development since the end of 2013 Intel has recognized him as Green Belt in the program Intel Developer Zone for the activity of developer support and evangelization about Perceptual and Realsense technology.
-    Since May 2014 he has been an Intel Software Innovator for Realsense and IoT technologies.
-    In 2015 Intel has recognized him the title of Intel Black Belt Software Developer.
-    In 2017 he joined Projest SPA as Senior Program Manager
-  social:
-    - title: twitter
-      url: https://twitter.com/marcodalpino
-    - title: linkedin
-      url: https://www.linkedin.com/in/marcodalpino
-    - title: github
-      url: #
-
-- id: 9
-  name: Novella Buonaccorsi
-  pic: novellabuonaccorsi
-  position: Automotive & Smart System Program Manager, Intecs
-  bio: |
-    Dr. Novella Buonaccorsi is Automotive & Smart System Program Manager at Intecs.
-    With a solid background in Program/Project Management leading technical and administrative activities, she is responsible for a range of activities in Smart System offer line.
-    She has been actively involved in different industrial projects as well as EU and national co-funded R&D projects.
-    She is constantly up-dated on methodological and technological innovations on (Smart)Energy, (e)Health, ICT, Transport, Security, and in the architecture and protocols for Internet of Things (H2020 programme) for the development of innovative technologies that sustain innovative business models.
-    Mrs. Buonaccorsi took her Master’s Degree in Telecommunications Engineering at Pisa University in Italy.
+    tbd
   social:
     - title: twitter
       url: #
     - title: linkedin
-      url: https://www.linkedin.com/in/novella-buonaccorsi-4887921b/
-    - title: github
       url: #
-
-- id: 10
-  name: Luca Bigotta
-  pic: lucabigotta
-  position: Solution Architect, Red Hat
-  bio: |
-    Luca Bigotta is a Red Hat Solution Architect and Red Hat IoT Ambassador.
-    He's a Middleware expert, he has a lot of experience on defining complex integration application architecture as well as Business Process Automation, API Management, Complex Event Processing, Big Data and Analytics.
-    He play the role of main architect on several Iot projects and he collaborate to structure the Red Hat Iot & Industry 4.0 Blueprint.
-  social:
-    - title: twitter
-      url: https://twitter.com/LucaBigotta
-    - title: linkedin
-      url: https://www.linkedin.com/in/luca-bigotta/
     - title: github
       url: #
