@@ -15,11 +15,11 @@ social:
 
 # Status of the conference organization (speakers and session available, c4p started, ...)
 conference:
-  coming: true
-  speakers: true
-  sessions: true
+  coming: false
+  speakers: false
+  sessions: false
   registration: false
-  callforpaper: false
+  callforpaper: true
 
 # Build settings
 markdown: kramdown
