@@ -1,17 +1,79 @@
-- title: "DOORS OPEN"
+- title: "[REGISTRATION]"
   id: 1
-  time: "8:30 - 9:30"
+  time: "9:00 - 9:50"
   description: |
     Attendees registration.
 - title: Welcome!
   id: 2
   speakers: 
     - id: 1
-  time: "9:30 - 9:50"
+    - id: 2
+  time: "9:50 - 10:10"
   description: |
     Welcome!
+- title: Agile Industry 4.0 from zero to hero
+  id: 3
+  speakers: 
+    - id: 8
+  time: "10:10 - 11:00"
+  description: |
+    This talk is about a real project for an Industry 4.0 assembly line for Electric Vehicles part manufacturing and what we learned in the making.
+    We started with no prior knowledge of machine communication protocols and M2M integration patterns and ended with a fully clustered Supervision and Control information system.
+    We had to fight with Purchase Managers buying the wrong stuff, incorrect documentation, last minute changes on the manufacturing stations, last second software specifications changes, IT Managers, manufacturing and logistics operators screaming "don't touch that switch", etc..
+    We're not survivors, all went as we planned in "the agile way": project delivered on time and operational from day 1.
+    Want to know how? Don't miss this session!
+- title: IIoT Survival course in the Manufacturing Valley
+  id: 4
+  speakers: 
+    - id: 5
+  time: "11:10 - 12:00"
+  description: |
+    The IoT for the Industrial Market is tremendously different in terms of technical approach, slogans and "problems from the field", compared to the "modern" world of SmartThings.
+    The modern consultant / developer has to face many difficulties to survive in a totally OT world, with more than 25 years of computer science based on HMI, SCADA and MES disciplines.
+    Often the term "cloud" is a forbidden word, which must be explored in a complementary perspective regarding two other levels of the same infrastructure: Edge and Fog.
+    So: what is the survival kit to take with you every day, in the jungle of the industrial world?
+- title: IIoT Microsoft Azure Sphere - highly-secured and connected MCU Device solution
+  id: 5
+  speakers: 
+    - id: 3
+  time: "12:10 - 13:00"
+  description: |
+    More than 9 billion MCU devices are built every year, and soon they will all be connected, from the everyday appliance, transport (cars, buses, metros, etc.) to the various industrial devices. 
+    This connectivity provides an opportunity for companies that produce these devices to transform their business with new product offerings, new customer experiences and an opportunity to reimagine everything. 
+    Azure Sphere brings together the best of Microsoft's cloud, software and silicon experience, creating a unique approach to silicon-starting security and extends to the cloud.
+- title: "[LUNCH BREAK]"
+  id: 6
+  time: "13:00 - 14:00"
+  description: |
+    Lunch break.
+- title: IIoT Applying Machine Learning computation techniques in Industrial IoT applications
+  id: 7
+  speakers: 
+    - id: 7
+  time: "14:00 - 14:50"
+  description: |
+    IoT adoption has increased significantly in the last five years due to the availability of massive computing power, innovations in data-processing technology, and the advent of machine learning algorithms. 
+    IoT has opened an entirely new arena for customers to address their long-standing issue of connecting devices and using the resulting data to positively influence decision-making processes.
+    Starting from discussion of some real-world scenarios, we will take into consideration how machine learning and artificial intelligence ecosystem can actually contribute to make an Industrial IoT solution more effective.
+- title: CQRS and IoT a match made in heaven
+  id: 8
+  speakers: 
+    - id: 6
+  time: "15:00 - 15:50"
+  description: |
+    From its birth, the CQRS (along with event sourcing) has been very attractive for the entire developers community but nonetheless still an "hipster" approach to application architecture design, despite many benefit. 
+    But when IoT comes in play, it becomes very interesting to apply it in production grade systems. 
+    Let's show why...
+- title: Smart Solar Water Heating
+  id: 9
+  speakers: 
+    - id: 4
+  time: "16:00 - 16:50"
+  description: |
+    Smart Solar Water Heating uses IoT and AI technologies to improve the efficiency of passive solar water heating systems. 
+    This project leverages open standards such as OMA LWM2M MQTT, several open source projects (including Eclipse Wakaama, Eclipse Leshan, Eclipse Kura) for telemetry and control, as well as other open source projects (including Enmasse and Apache Spark deployed using the OpenShift Origin platform) to enable device connectivity and to help predict the availability of hot water.
 - title: "GREETINGS!"
-  id: 12
+  id: 10
   time: "16:50 - 17:00"
   description: |
     Thanks and closing session.

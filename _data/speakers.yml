@@ -1,42 +1,136 @@
 # Speakers names, titles and social links
 - id: 1
-  name: TBD
-  pic: speaker
-  position: tbd
+  name: Paolo Patierno
+  pic: paolopatierno
+  position: Principal Software Engineer, Red Hat
   bio: |
-    tbd
+    Paolo is a Principal Software Engineer working for Red Hat on the messaging and IoT team.
+    He has been working on different integration projects having AMQP with Apache Kafka and Spark and on the EnMasse messaging-as-a-service project about the integration with MQTT.
+    Currently, he is focusing on Apache Kafka and how to deploy and run it on Kubernetes and OpenShift.
+    In the IoT space he takes part to the definition of the API for the Eclipse Hono project being one of the leads for it and he is also committer for Eclipse Paho and maintainer for different IoT related components in Eclipse Vert.x.
+    Finally, he is also Microsoft MVP in Azure and IoT since 2014.
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/ppatierno
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/paolopatierno/
     - title: github
-      url: #
+      url: https://github.com/ppatierno
 
 - id: 2
-  name: TBD
-  pic: speaker
-  position: tbd
+  name: Felice Pescatore
+  pic: felicepescatore
+  position: Agile Business Coach, Xebir & AC2 President
   bio: |
-    tbd
+    Xebir Founder & CEO I work daily with complex projects using Agile/Lean/DevOps approaches to achieve business goals. 
+    Software Engineer with a Master Degree in Software Technology and Software Management, I support companies in their transformation path in order to make them more dynamic and value-oriented, creating a strong Lean oriented culture.
+    Agile Business Coach, Certified Disciplined Agile Coach and Disciplined Agile Consortium member, agilist of the first hour, I’m the leader of the AgileIoT.org and Eclipse Duttile open projects, an empirical disciplined approach to create massive IoT market solutions.
+    I am a speaker (and co-organizer) at the most important Agile and Microsoft conferences in Italy and across Europe.
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/felicepescatore
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/felice-pescatore-50a41a22/
     - title: github
       url: #
 
 - id: 3
-  name: TBD
-  pic: speaker
-  position: tbd
+  name: Mirco Vanini
+  pic: mircovanini
+  position: Senior Developer & Consultant
   bio: |
-    tbd
+    My passion for computer science began at the age of fourteen with the legendary ZX81 (endless hours of peek &amp; poke). 
+    After finishing my studies I started my professional activity in the field of industrial automation and then i came to the world embedded in general. 
+    During the 1990s, I developed applications using C/C++ and the various technologies on the market. 
+    Since 2000 I have been developing with Microsoft .NET using both managed and native code to always achieve the maximum performance. 
+    For several years I actively deal with embedded systems and, in particular, their integration with the "real" world. 
+    Passionate and curious about everything that revolves around the IoT world both for hobby and work.
+  social:
+    - title: twitter
+      url: https://twitter.com/mircovanini
+    - title: linkedin
+      url: https://www.linkedin.com/in/proxsoft/
+    - title: github
+      url: #
+
+- id: 4
+  name: Domenico Francesco Bruscino
+  pic: dfbruscino
+  position: Senior Software Engineer, Red Hat
+  bio: |
+    Domenico is from Naples where he works as a Senior Software Engineer at Red Hat. 
+    He has more than 10 years of experience with software design, development and integration. 
+    In his spare time, Domenico enjoys hacking cheap connected devices and traveling.
+  social:
+    - title: twitter
+      url: https://twitter.com/bruscinodf
+    - title: linkedin
+      url: https://www.linkedin.com/in/domenico-francesco-bruscino/
+    - title: github
+      url: #
+
+- id: 5
+  name: Riccardo Zamana
+  pic: riccardozamana
+  position: Senior Solution Architect & Product Manager, beanTech
+  bio: |
+    I’m an accomplished, result driven management professional with 20 years of experience in both IT and business functions.
+    Proven history of managing complex IT operations and strategy for the development and delivery of high technological product and services.
+    I’m highly skilled in proposal development and delivering business results by creating tailor made Cloud and IOT based solutions around the specific customer needs. 
+    My passions are to architect and build up teams of qualified professionals, redesign and streamline of software processes integrating more departments, delivering perfectly governed eco-systems. 
+    Decisional trees based on microservices plots, especially in OSS sauce, represent my greatest fun. 
+    Even if I'm historically voted to OSS / Java / Spring Platform, I learned (and I'm still learning) the wonders of the Azure platform every day.
+  social:
+    - title: twitter
+      url: https://twitter.com/riccardozamana
+    - title: linkedin
+      url: https://www.linkedin.com/in/riccardozamana/
+    - title: github
+      url: #
+
+- id: 6
+  name: Carmine Ingaldi
+  pic: carmineingaldi
+  position: Tech Lead for Digital Services Division, SCM Group SpA
+  bio: |
+    Born and professionally grown in Naples, I've found the most exciting technical challenge in Rimini, in the cradle of manufacturing excellence, where machines speak the digital language by now.
   social:
     - title: twitter
       url: #
     - title: linkedin
+      url: https://www.linkedin.com/in/carmine-ingaldi/
+    - title: github
       url: #
+
+- id: 7
+  name: Lorenzo Maiorfi
+  pic: lorenzomaiorfi
+  position: CTO, K-DIgitale e Innovactive Engineering
+  bio: |
+    Sviluppatore da sempre, con esperienze maturate a partire dai primi personal computer degli anni 80-90 (Sinclair Spectrum, TI-64, Commodore 64, MSX, Commodore Amiga).
+    Laureato in ingegneria elettronica (indirizzo telecomunicazioni) presso l'Università degli Studi di Perugia nel 1997.
+    Socio fondatore di Innovactive Engineering, società fondata nel 1999 dedicata alla progettazione e sviluppo di soluzioni software custom. 
+    Dal 2017 CTO di K-Digitale, startup innovativa dedicata allo sviluppo di progetti di digital transformation. 
+    Microsoft MVP tra il 2013 ed il 2018 (ma come si dice: 'once an MVP, always an MVP'). 
+    Appassionato di IoT, physical computing, soluzioni ibride hardware/firmware/software e in generale di interoperabilità fra tecnologie diverse, impiego gran parte della mia attività professionale nella progettazione e nello sviluppo di software, con particolare predilezione per gli stack .NET e Python.
+  social:
+    - title: twitter
+      url: http://twitter.com/maiorfi
+    - title: linkedin
+      url: https://www.linkedin.com/in/lorenzo-maiorfi
+    - title: github
+      url: #
+
+- id: 8
+  name: Andrea Balducci
+  pic: andreabalducci
+  position: Post-it Ninja
+  bio: |
+    Developer for fun and passion, founder of DevMarche / DotNetMarche / XPUG Marche.
+  social:
+    - title: twitter
+      url: https://twitter.com/andreabalducci
+    - title: linkedin
+      url: https://www.linkedin.com/in/andreabalducci/
     - title: github
       url: #
