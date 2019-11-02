@@ -11,8 +11,12 @@
                     {% endif %}
                 </div>
             </div>
+
+            {% for speaker in site.data.speakers %}
+            {% assign x = forloop.index | modulo: 3 %}
+            {% if x == 1 %}
             <div class="row">
-                {% for speaker in site.data.speakers %}
+            {% endif %}
                 <div class="col-sm-4 sessions-item">
                     <div class="speaker">
                         {% if site.conference.speakers == true %}
@@ -37,8 +41,11 @@
                         {% endif %}
                     </div>
                 </div>
-                {% endfor %}
+            {% if x == 0 or forloop.last %}
             </div>
+            {% endif %}
+            {% endfor %}
+
             {% if site.conference.callforpaper == true %}
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2 text-center">
