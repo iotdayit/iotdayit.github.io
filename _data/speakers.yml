@@ -107,12 +107,13 @@
   pic: lorenzomaiorfi
   position: CTO, K-DIgitale e Innovactive Engineering
   bio: |
-    Sviluppatore da sempre, con esperienze maturate a partire dai primi personal computer degli anni 80-90 (Sinclair Spectrum, TI-64, Commodore 64, MSX, Commodore Amiga).
-    Laureato in ingegneria elettronica (indirizzo telecomunicazioni) presso l'Università degli Studi di Perugia nel 1997.
-    Socio fondatore di Innovactive Engineering, società fondata nel 1999 dedicata alla progettazione e sviluppo di soluzioni software custom. 
-    Dal 2017 CTO di K-Digitale, startup innovativa dedicata allo sviluppo di progetti di digital transformation. 
-    Microsoft MVP tra il 2013 ed il 2018 (ma come si dice: 'once an MVP, always an MVP'). 
-    Appassionato di IoT, physical computing, soluzioni ibride hardware/firmware/software e in generale di interoperabilità fra tecnologie diverse, impiego gran parte della mia attività professionale nella progettazione e nello sviluppo di software, con particolare predilezione per gli stack .NET e Python.
+    Software developer since 80s personal computer era, with experience in Sinclair Spectrum, TI-64, Commodore 64, MSX...and then in Commodore Amiga and again after in x86 PCs. 
+    Master's Degree in Electronics Engineering (telecommunications study path), achieved in Perugia University in 1997. 
+    Co-founder of Innovactive Engineering, company focused on design and development of custom software solutions. 
+    Since 2017, CTO of K-Digitale, a startup whose aim is to provide consulting about projects of digital transformation. 
+    Microsoft MVP between 2013 and 2018 (but, as they say, once MVP always MVP). 
+    Fan of IoT, physical computing, hybrid hardware/software/firmware solutions and committed to interoperability among different technologies. 
+    Most part of his professional activity is about software design and implementation, especially using C#/.NET and Python stacks.
   social:
     - title: twitter
       url: http://twitter.com/maiorfi
