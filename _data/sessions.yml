@@ -8,6 +8,7 @@
   speakers: 
     - id: 1
     - id: 2
+    - id: 9
   time: "9:50 - 10:10"
   description: |
     Welcome!

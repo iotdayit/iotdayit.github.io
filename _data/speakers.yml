@@ -2,7 +2,7 @@
 - id: 1
   name: Paolo Patierno
   pic: paolopatierno
-  position: Principal Software Engineer, Red Hat
+  position: Principal Software Engineer, Red Hat & CNCF Napoli co-founder
   bio: |
     Paolo is a Principal Software Engineer working for Red Hat on the messaging and IoT team.
     He has been working on different integration projects having AMQP with Apache Kafka and Spark and on the EnMasse messaging-as-a-service project about the integration with MQTT.
@@ -133,5 +133,19 @@
       url: https://twitter.com/andreabalducci
     - title: linkedin
       url: https://www.linkedin.com/in/andreabalducci/
+    - title: github
+      url: #
+
+- id: 9
+  name: Angela Maiale
+  pic: angelamaiale
+  position: Accelerator Leader Tim WCAP & AC2 Vice-president
+  bio: |
+    Accelerator Leader Tim WCAP & AC2 Vice-president
+  social:
+    - title: twitter
+      url: https://twitter.com/AngelaMaiale
+    - title: linkedin
+      url: https://www.linkedin.com/in/angela-maiale-a8a4b5114/
     - title: github
       url: #
