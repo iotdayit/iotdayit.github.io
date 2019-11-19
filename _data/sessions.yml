@@ -47,24 +47,24 @@
   time: "13:00 - 14:00"
   description: |
     Lunch break.
-- title: IIoT Applying Machine Learning computation techniques in Industrial IoT applications
+- title: CQRS and IoT a match made in heaven
   id: 7
   speakers: 
-    - id: 7
-  time: "14:00 - 14:50"
-  description: |
-    IoT adoption has increased significantly in the last five years due to the availability of massive computing power, innovations in data-processing technology, and the advent of machine learning algorithms. 
-    IoT has opened an entirely new arena for customers to address their long-standing issue of connecting devices and using the resulting data to positively influence decision-making processes.
-    Starting from discussion of some real-world scenarios, we will take into consideration how machine learning and artificial intelligence ecosystem can actually contribute to make an Industrial IoT solution more effective.
-- title: CQRS and IoT a match made in heaven
-  id: 8
-  speakers: 
     - id: 6
-  time: "15:00 - 15:50"
+  time: "14:00 - 14:50"
   description: |
     From its birth, the CQRS (along with event sourcing) has been very attractive for the entire developers community but nonetheless still an "hipster" approach to application architecture design, despite many benefit. 
     But when IoT comes in play, it becomes very interesting to apply it in production grade systems. 
     Let's show why...
+- title: IIoT Applying Machine Learning computation techniques in Industrial IoT applications
+  id: 8
+  speakers: 
+    - id: 7
+  time: "15:00 - 15:50"
+  description: |
+    IoT adoption has increased significantly in the last five years due to the availability of massive computing power, innovations in data-processing technology, and the advent of machine learning algorithms. 
+    IoT has opened an entirely new arena for customers to address their long-standing issue of connecting devices and using the resulting data to positively influence decision-making processes.
+    Starting from discussion of some real-world scenarios, we will take into consideration how machine learning and artificial intelligence ecosystem can actually contribute to make an Industrial IoT solution more effective.
 - title: Smart Solar Water Heating
   id: 9
   speakers: 
