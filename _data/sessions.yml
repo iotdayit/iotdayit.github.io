@@ -69,6 +69,7 @@
     IoT adoption has increased significantly in the last five years due to the availability of massive computing power, innovations in data-processing technology, and the advent of machine learning algorithms. 
     IoT has opened an entirely new arena for customers to address their long-standing issue of connecting devices and using the resulting data to positively influence decision-making processes.
     Starting from discussion of some real-world scenarios, we will take into consideration how machine learning and artificial intelligence ecosystem can actually contribute to make an Industrial IoT solution more effective.
+  slides: "iiot_machine_learning.pdf"
 - title: Smart Solar Water Heating
   id: 9
   speakers: 
